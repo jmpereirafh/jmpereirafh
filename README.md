@@ -32,5 +32,5 @@
 ---
 
 <div align = "left">
-  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmauriciofilho&show_icons=true&theme=bear&count_private=true&layout=compact"/>
+  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmpereirafh&show_icons=true&theme=bear&count_private=true&layout=compact"/>
 </div>
